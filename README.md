@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import requests
 import psycopg2
 import pandas as pd
@@ -93,3 +94,6 @@ def run_quality_checks(df):
 
 
 
+=======
+# Project-data-quality-monitoring-simple
+>>>>>>> 052ea55da0c5f79100f29515e9d95ee088b16821
