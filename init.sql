@@ -1,4 +1,4 @@
--- Create the database if it doesn't already exist
+-- Create the database if it doesn't already exist 
 CREATE DATABASE airflow;
 
 -- Create the table to store cryptocurrency data with appropriate data types
